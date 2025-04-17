@@ -38,6 +38,7 @@
 if (code.isUgly) {
   refactor();
 }
+```
 
 
 

@@ -1,5 +1,44 @@
-# 💫 About Me:
-<h1 align="center">Hey, I'm DartGuy 👋🏽</h1><br><h3 align="center">Flutter Dev ✨ UI Sorcerer ⚔ Anime Lover</h3><br><br>---<br><br> 💼 About Me<br><br>- 🧠 I'm a **Flutter Developer** with a big love for clean UIs, smooth animations, and modular codebases.<br>- 📱 I build scalable, beautiful apps with **Dart, Flutter, and magic.**<br>- 🔥 Currently working on **Curve Booking** and **TopGrowth** – apps.<br><br>---<br><br>## 🛠 Tech Arsenal<br><br>- 💙 Flutter + Dart  <br>- 🎨 UI/UX Design + Animations  <br>- ⚙️ State Management (BLoC / GetX / Provider)  <br>- 🔐 Firebase + REST APIs + Secure Auth  <br>- 🧩 Modular, Reusable Widget Design  <br>- 🧪 Test-Driven + Performance-First Mindset  <br><br>---<br><br>### 🎮 Level-Up Facts About Me<br><br>- 🌸 Code + Anime = my love language  <br>- ⚔ I refactor like a samurai sharpens his blade  <br>- 📺 Currently watching: `Monogatari`, `Black clover`  <br>- 🌟 Favorite Anime: `Wistoria sword and wand`, `Black clover`, `Kaiju No 8`  <br><br>---<br><br>### ⚡ Power Moves<br><br>```dart<br>// Clean code. Clean mind.<br>if (code.isUgly) {<br>  refactor();<br>}<br>
+<h1 align="center">Hey, I'm DartGuy 👋🏽</h1>
+<h3 align="center">Flutter Dev ✨ UI Sorcerer ⚔ Anime Lover</h3>
+
+---
+
+💼 **About Me**
+
+- 🧠 I'm a **Flutter Developer** with a big love for clean UIs, smooth animations, and modular codebases.  
+- 📱 I build scalable, beautiful apps with **Dart, Flutter, and magic.**  
+- 🔥 Currently working on **Curve Booking** and **TopGrowth** – apps.
+
+---
+
+🛠 **Tech Arsenal**
+
+- 💙 Flutter + Dart  
+- 🎨 UI/UX Design + Animations  
+- ⚙️ State Management (BLoC / GetX / Provider)  
+- 🔐 Firebase + REST APIs + Secure Auth  
+- 🧩 Modular, Reusable Widget Design  
+- 🧪 Test-Driven + Performance-First Mindset  
+
+---
+
+🎮 **Level-Up Facts About Me**
+
+- 🌸 Code + Anime = my love language  
+- ⚔ I refactor like a samurai sharpens his blade  
+- 📺 Currently watching: `Monogatari`, `Black Clover`  
+- 🌟 Favorite Anime: `Wistoria: Wand and Sword`, `Black Clover`, `Kaiju No. 8`  
+
+---
+
+⚡ **Power Moves**
+
+```dart
+// Clean code. Clean mind.
+if (code.isUgly) {
+  refactor();
+}
+
 
 
 ## 🌐 Socials:
